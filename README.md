@@ -1,2 +1,2 @@
 # java-pilha
-Testing Java Stack and Eclise Debug tool.
+Testing Java Stack and Eclipse Debug tool.
