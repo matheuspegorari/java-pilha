@@ -23,7 +23,8 @@ public class FluxoComTratamento {
     private static void metodo2() {
         System.out.println("Ini do metodo2");
         
-        throw new ArithmeticException("Hello World! I'm in the exception");
+        throw new ArithmeticException("Hello World! I'm in the"
+        		+ " exception");
         
         
     }
